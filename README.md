@@ -1,2 +1,2 @@
-# Machine-Learning-Practice
-All the projects which were worth practicing or which I was a part of are present in this library. I will be sharing all the details and insights that I got from these projects here.
+## Machine-Learning-Notes
+In this branch, I will sharing my hand written notes of simple and advanced topics of machine learning ✍🏻. Again, feel free to look at the notes and let me know if I am missing something out. ✌🏻
