@@ -7,6 +7,7 @@ In this branch, I will sharing my hand written notes of simple and advanced topi
 **Here are the topics for the notes:**
 * [Concepts of Linear Regression](https://github.com/AmandeepSinghDhalla/Machine-Learning/blob/Notes/Linear%20Regression%20Theory.pdf) with gradient descent and cost function.
 * [Evaluation metrics of Regression](https://github.com/AmandeepSinghDhalla/Machine-Learning/blob/Notes/Evaluation%20Metrics%20Regression..pdf) with comparison.
+* [Evaluation Metrics for Classification](https://github.com/AmandeepSinghDhalla/Machine-Learning/blob/Notes/Evaluation%20Metrics%20Classification.pdf).
 * [Log Loss](https://github.com/AmandeepSinghDhalla/Machine-Learning/blob/Notes/log%20loss%20for%20classification.pdf) evaluation for classification.
 * [Concepts of K-Nearest Neighbor](https://github.com/AmandeepSinghDhalla/Machine-Learning/blob/Notes/KNN%20Model.pdf).
 * [Cut-off Class Probablity for Classification](https://github.com/AmandeepSinghDhalla/Machine-Learning/blob/Notes/Cutt%20Off%20For%20Classification.pdf).
